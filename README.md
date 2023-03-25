@@ -5,6 +5,12 @@
 <p style="text-align: justify;"> My name is Miguel Martinez, and I am a Computer Engineer from the National Autonomous University of Mexico, specializing in Networks and Cybersecurity. I love creating preventive plans and generating solutions.
 I also have a diploma in Cybersecurity from the National Autonomous University of Mexico, which is mainly focused on Blue Team and some Red Team techniques.</p>
 
+<h4 align="left"> ABOUT ME </h4>
+
+<a href="https://www.ejemplo.com">Enlace a ejemplo.com</a>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llmemrll&label=Profile%20views&color=0e75b6&style=flat" alt="llmemrll" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llmemrll" alt="llmemrll" /></a> </p>
