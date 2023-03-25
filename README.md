@@ -2,7 +2,7 @@
 
 <h3 align="left"> ABOUT ME </h3>
 
-<p style="text-align: justify;"> My name is Miguel Martinez, and I am a Computer Engineer from the National Autonomous University of Mexico, specializing in Networks and Cybersecurity. I love creating preventive plans and generating solutions.
+<p style="text-align: justify;"> My name is Miguel Martinez. I am a Computer Engineer from the National Autonomous University of Mexico, specializing in Networks and Cybersecurity. I love creating preventive plans and generating solutions.
 I also have a diploma in Cybersecurity from the National Autonomous University of Mexico, which is mainly focused on Blue Team and some Red Team techniques.</p>
 
 <h4 align="left"> ABOUT ME </h4>
